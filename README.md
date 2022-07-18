@@ -1,6 +1,8 @@
 # RecyclerView sample for Espresso
 
-
+<h1 align="center">
+    <img src="https://github.com/sebapratto/Testing-RecyclerView/blob/master/imageAssets/test.png" width=610 height=395/>
+</h1>
 
 Espresso has a special entry point to interact with AdapterViews, `onData()`, however, RecyclerViews work differently than AdapterViews.
 
